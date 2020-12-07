@@ -1,2 +1,3 @@
 # emojinary
-Created with CodeSandbox
+<b> Emoji Dictionary </b>
+<h3> With names of emojis </h3> 
